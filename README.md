@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## How to run the application
-1. Clone Porject to your preferred directory
+1. Clone Project to your preferred directory
 2. Install php >= 8.0.2
 3. download and install composer (https://getcomposer.org/download/)
 4. Open terminal inside the root directory of the project folder.
