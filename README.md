@@ -75,7 +75,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 6. Open the .env file in the root directory.
 7. Check the database credentials for **_DB_CONNECTION,DB_HOST,DB_PORT,DB_DATABASE,DB_USERNAME_** and **_DB_PASSWORD_** to your preferred credentials.
 8. Create your database (it must correspond with the value for DB_DATABASE in the .env file).
-9. Run command **_php artisan migrate_** in your terminal (NB. You must open your terminal in your root directory of the project folder).
+9. Run command **_php artisan migrate_** in your terminal to migrate database tables into your database (NB. You must open your terminal in your root directory of the project folder).
 10. Run command **_php artisan serve --port=8282_** (or any preferred port number of your choice) in your terminal (NB. You must open your terminal in your root directory of the project folder).
 11. Leave your terminal open.
 12. You can now access your project at http://localhost:8282/ or http://127.0.0.1:8282.
